@@ -1,8 +1,10 @@
 # SmartBudget Uygulaması – Hesap ve Veri Silme Talebi
 SmartBudget uygulamasında oluşturduğunuz hesabınızı ve ilişkili tüm verilerinizi silmek için aşağıdaki adımları takip edebilirsiniz.
 
+
 👤 Geliştirici Adı:
 Vizyon Yazılım / SmartBudget
+
 
 📝 Hesap Silme Adımları
 
@@ -14,7 +16,9 @@ Uygulamada kullandığınız e-posta adresi
 
 “Hesabımın ve tüm verilerimin silinmesini talep ediyorum.” ifadesi
 
+
 📧 Silme talepleri için e-posta adresi: vizyon.smartbudget@gmail.com
+
 
 📦 Silinen ve Saklanan Veriler
 Silinen Veriler:
